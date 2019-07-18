@@ -4,9 +4,9 @@ The package will Accept or Reject trades grouped by CorrelationID.
 For documentation see below
 
 ## Folders
-- /bnp-test/app - Contains input file, output file, entrypoint, and package
+- /bnp-test/app - Contains input file, output file, log file, entrypoint, and package
 - /bnp-test/app/controller - Contains core functionality including tests
-- /bnp-test/docs/build/html/ - Documentation
+- /bnp-test/docs/ - Documentation
 
 ## Files
 - bnp-test.py - entry point
